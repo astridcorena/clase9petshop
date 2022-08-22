@@ -1,0 +1,141 @@
+/**Estilo pagina Petshop*/
+
+body{
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Sección grandes ofertas en comederos*/
+
+.section1{
+    height:20px; 
+    background-color:#222222; 
+    color: #F3F3F3;
+    border: 0ch; 
+}
+
+select {
+    background-color:#222222;
+    color: #F3F3F3;
+    border-style: none;  
+}
+
+/*header*/
+header{
+    height: 130px; 
+    background-color:#F0A83E; 
+    color: #F3F3F3;
+    padding-top:0px;
+
+}
+
+
+nav{
+    text-align:right;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+/*Slide*/
+
+.first {
+    text-align: center;
+    font-size: 30px;
+}
+
+.come {
+    background-image: url(../img/bowl-and-pet-daities-on-green-background\ 1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 1000px;
+    text-align: center;
+}
+
+.come input {
+    background-color: #F0A83E;
+    border-style: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 90px;
+}
+
+.descuen {
+    font-style: italic;
+    font-weight: bold;
+}
+
+/*Sección Productos Destacados*/
+
+.princ {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.products {
+    color: #F0A83E;
+}
+
+
+.contact {
+    text-align: center;
+}
+
+input {
+    border-radius: 50px;
+    background-color: #3C2313;
+    width: 300px;
+    height: 30px;
+    color: #F3F3F3;
+}
+
+/** Contáctanos*/
+.one {
+    background-color:#8A8787;
+    border-radius: 15px;
+    color: #F3F3F3;
+    border-style: none;
+    width: 80px;
+    height: 40px;
+}
+
+.two {
+    background-color:#F0A83E;
+    border-radius: 15px;
+    color: #F3F3F3;
+    border-style: none;
+    width: 80px;
+    height: 40px;
+}
+
+/*Suscríbete para más novedades*/
+.minisu {
+    background-color:#F0A83E;
+}
+
+.susc {
+    background-color: #F3F3F3;
+    color: #A0A0A0;
+}
+
+.susc2 {
+    width: 80px;
+}
+
+/*footer*/
+
+.foot {
+    background-color: #3C2313;
+    color:#F3F3F3 ;
+}
+
+.final {
+    background-color: #222222; 
+    color: #F3F3F3;"
+}
